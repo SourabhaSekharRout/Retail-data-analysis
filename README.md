@@ -22,3 +22,5 @@ This project involves cleaning and connecting data from four files, creating cal
   - City, Zone, and City Tier
 7. Dashboard Creation
 - Develop a comprehensive, interactive dashboard to visualize the results of the analysis, enabling stakeholders to derive actionable insights.
+## Dashboard
+- <a href="https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Retail%20Data%20Analysis%20(Power%20BI).pbix">Dashboard (Power BI)</a>
