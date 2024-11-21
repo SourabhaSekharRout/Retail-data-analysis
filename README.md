@@ -17,8 +17,8 @@ This project involves cleaning and connecting data from four files, creating cal
 - Review and refine relationships in the data model to ensure all tables are correctly connected for seamless analysis.
 6. Analysis and Reporting
 - Perform various analyses, including total revenue, cancellations, and transactions. Segment the data by dimensions such as:
--- Month, Week, and Weekday
--- Product Group
--- City, Zone, and City Tier
+  - Month, Week, and Weekday
+  - Product Group
+  - City, Zone, and City Tier
 7. Dashboard Creation
 - Develop a comprehensive, interactive dashboard to visualize the results of the analysis, enabling stakeholders to derive actionable insights.
