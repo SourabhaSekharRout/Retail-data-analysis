@@ -4,10 +4,10 @@ Integrate and analyze retail data from multiple sources by building a unified da
 ## Overview
 This project involves cleaning and connecting data from four files, creating calculated fields for advanced analysis, and visualizing key metrics like revenue, cancellations, and performance across various dimensions like time, geography, and product categories.
 ## Dataset used
-- <a href="[https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Retail%20Data%20Analysis%20(Power%20BI).pbix](https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_CityTier_v0.1.csv)">City Tier</a>
-- <a href="[https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Retail%20Data%20Analysis%20(Power%20BI).pbix](https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_PinCodeGeo_v0.1.xlsx)">Pin Code Geo</a>
-- <a href="[https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Retail%20Data%20Analysis%20(Power%20BI).pbix](https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_ProductMap_v0.1.csv)">Product Map</a>
-- <a href="[https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Retail%20Data%20Analysis%20(Power%20BI).pbix](https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_Sales_v0.1.xlsx)">Sales</a>
+- <a href="https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_CityTier_v0.1.csv">City Tier</a>
+- <a href="https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_PinCodeGeo_v0.1.xlsx">Pin Code Geo</a>
+- <a href="https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_ProductMap_v0.1.csv">Product Map</a>
+- <a href="https://github.com/SourabhaSekharRout/Retail-data-analysis/blob/main/Mod3_Raw_Sales_v0.1.xlsx">Sales</a>
 ## Process
 1. Data Loading
 - Import all four retail data files into the data model, ensuring the headers contain accurate field names for each file.
