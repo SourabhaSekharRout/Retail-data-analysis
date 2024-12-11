@@ -37,7 +37,7 @@ This project involves cleaning and connecting data from four files, creating cal
 -	The dashboard gives a clear view of business performance, with options to explore details like sales by city, product group, or customer demographics.
 -	Time-related fields help identify sales trends by day of the week and week start.
 -	The analysis highlights key insights, such as top-performing city tiers and zones, areas with the highest sold units, and sales patterns across weekdays.
-## Insights
+## Insight
 -	December has the highest revenue and most units sold, showing strong seasonal demand.
 -	The South Zone generates the most revenue and sales, making it a key market.
 -	Sales are higher on weekends, especially Saturday and Sunday, offering opportunities for weekend-focused strategies.
